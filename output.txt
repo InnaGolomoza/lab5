@@ -1,0 +1,7 @@
+Iryna:
+envelope 20
+pens 5
+Sasha:
+envelope 5
+marker 3
+paper 17

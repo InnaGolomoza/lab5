@@ -1,0 +1,7 @@
+Sasha paper 10
+Iryna pens 5
+Sasha marker 3
+Sasha paper 7
+Iryna envelope 20
+Sasha envelope 5
+
